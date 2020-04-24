@@ -1,0 +1,2 @@
+IDE: CodeBlocks
+Compilador: GCC
